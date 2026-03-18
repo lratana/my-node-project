@@ -3,9 +3,6 @@
  * https://jestjs.io/docs/configuration
  */
 
-// eslint-disable-next-line no-unused-vars
-// const { Config } = require('jest');
-
 const config = {
   // All imported modules in your tests should be mocked automatically
   // automock: false,

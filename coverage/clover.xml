@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1773214563613" clover="3.2.0">
-  <project timestamp="1773214563613" name="All files">
+<coverage generated="1773819186383" clover="3.2.0">
+  <project timestamp="1773819186383" name="All files">
     <metrics statements="5" coveredstatements="5" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1" elements="7" coveredelements="7" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
     <file name="sum.js" path="/Users/ratana/Documents/laravel-project/my-node-project/src/sum.js">
       <metrics statements="5" coveredstatements="5" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
